@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Lab
+./data/dataset_ml_pixeles.csv
+./data/dataset_ml_pixeles.parquet
