@@ -222,4 +222,8 @@ __marimo__/
 
 #Lab
 ./data/dataset_ml_pixeles.csv
-./data/dataset_ml_pixeles.parquet
+./data/dataset_ml_pixeles.parquetdata/
+modelos/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
